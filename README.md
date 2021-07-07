@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo-Yeol&layout=compact)
 
 - 🦁 I’m currently working on LikeLion 9th - KoreaTech Univ
-- 😤 I’m currently learning about Algorithms & Web Programming
+- 😤 I’m currently learning about Web Programming
 
 <!--
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
