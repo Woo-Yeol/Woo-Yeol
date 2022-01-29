@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   
 ### 👋 Hi there I'm Woo-Yeol, Student Developer
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp 
  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>&nbsp   
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 Student Developer
 
 **Activities**
-- 🦁&emsp;**Likelion at KoreaTech** 8th Student (2020), 9th Representative Organizer (2021) <code><a href="https://www.likelion.net/"><img height="20" src="https://oopy.lazyrockets.com/api/rest/cdn/image/a1ea1add-8fec-4f53-92f1-1e08abf04a19.png"> Info</a></code>
+- 🦁&emsp;**Likelion at KoreaTech** 8th Student (2020), 9th Representative Organizer (2021) <code><a href="https://www.likelion.net/"><img height="15" src="https://oopy.lazyrockets.com/api/rest/cdn/image/a1ea1add-8fec-4f53-92f1-1e08abf04a19.png"> Info</a></code>
 
 <br>
 
