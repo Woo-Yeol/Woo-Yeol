@@ -1,16 +1,3 @@
-### Hi there 👋
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo-Yeol&layout=compact)
-
-- 🦁 I’m currently working on LikeLion 9th - KoreaTech Univ
-- 😤 I’m currently learning about Web Programming
-
-<!--
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Woo-Yeol)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 <!--
 **Woo-Yeol/Woo-Yeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,5 +10,27 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  --> 
+  
+### 👋 Hi there I'm Woo-Yeol, Student Developer
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp 
+ <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>&nbsp   
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>&nbsp
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>&nbsp
+ </p>
+ 
+- 👨🏻‍💻 Student Developer
+
+**Activities**
+- 🦁&emsp;**Likelion at KoreaTech** 8th Student (2020), 9th Representative Organizer (2021) <code><a href="https://www.likelion.net/"><img height="20" src="https://oopy.lazyrockets.com/api/rest/cdn/image/a1ea1add-8fec-4f53-92f1-1e08abf04a19.png"> Info</a></code>
+
+<br>
+
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo-Yeol&layout=compact)
+</div>
