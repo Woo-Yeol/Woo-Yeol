@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 <br>
   
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo-Yeol&layout=compact) -->
-![Woo-Yeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo-yeol&theme=buefy&show_icons=true&hide_border=true)
+![Woo-Yeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo-yeol&theme=vision-friendly-dark&show_icons=true&hide_border=true)
