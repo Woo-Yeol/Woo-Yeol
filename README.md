@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 - 🦁&emsp;**Likelion at KoreaTech** 8th Student (2020), 9th Representative Organizer (2021) <code><a href="https://www.likelion.net/"><img height="15" src="https://oopy.lazyrockets.com/api/rest/cdn/image/a1ea1add-8fec-4f53-92f1-1e08abf04a19.png"> Info</a></code>
 
 <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo-Yeol&layout=compact)
-  ![Woo-Yeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo-yeol&theme=buefy&show_icons=true&hide_border=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo-Yeol&layout=compact)
+![Woo-Yeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo-yeol&theme=buefy&show_icons=true&hide_border=true)
