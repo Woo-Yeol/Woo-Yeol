@@ -24,7 +24,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>&nbsp
  </p>
  
-- 👨🏻‍💻 Student Developer
+- 👨🏻‍💻 Student Developer (2017.2 ~ 2023.2) 
+- 👨🏻‍💻 Data Platform Developer Intern(SIA)(2022.7 ~ )
 
 **Activities**
 - 🦁&emsp;**Likelion at KoreaTech** 8th Student (2020), 9th Representative Organizer (2021) <code><a href="https://www.likelion.net/"><img height="15" src="https://oopy.lazyrockets.com/api/rest/cdn/image/a1ea1add-8fec-4f53-92f1-1e08abf04a19.png"> Info</a></code>
