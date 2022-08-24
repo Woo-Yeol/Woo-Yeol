@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>&nbsp
  </p>
  
-- 👨🏻‍💻 Student Developer (2017.2 ~ 2023.2) 
+- 👨🏻‍💻 B.S. course in KOREATECH CSE  (2017.2 ~ 2023.2) 
 - 👨🏻‍💻 Data Platform Developer Intern [SIA](https://www.si-analytics.ai)(2022.7 ~ )
 
 **Activities**
