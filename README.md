@@ -62,7 +62,10 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=woo-yeol&theme=vision-friendly-dark&show_icons=true&hide_border=true" />
 </a> -->
+
+<div align="center">
 ![Woo-Yeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo-yeol&theme=vision-friendly-dark&show_icons=true&hide_border=true)
+</div>
 
 **About Me**
 [Notion 이력서](https://wooyeol.notion.site/Woo-Yeol-754531ef3b724ab99a8547a84e2b6b88)
