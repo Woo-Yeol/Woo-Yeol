@@ -1,17 +1,3 @@
-<!--
-**Woo-Yeol/Woo-Yeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-  --> 
-  
 ### 👋 Hi there I'm Woo-Yeol, Student Developer
 
 <!--Frameworks-->
@@ -55,15 +41,16 @@ Here are some ideas to get you started:
 - 🦁**Likelion at KoreaTech** 9th Representative Organizer (2021)
 - 👨🏻‍💻 Data Engineer Intern in **🌌[SIA](https://www.si-analytics.ai)**(2022.7 ~ 2022.12)
 - 🦾 **[Boost Camp](https://boostcamp.connect.or.kr) AI TECH 5th** boostcamper in [Naver Connect](https://www.connect.or.kr)(2023.3 ~ )
-<br>
   
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo-Yeol&layout=compact) -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=woo-yeol&theme=vision-friendly-dark&show_icons=true&hide_border=true" />
 </a> -->
-
+<!-- 
 <div align="center">
   
 ![Woo-Yeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo-yeol&theme=vision-friendly-dark&show_icons=true&hide_border=true)
 
-</div>
+</div> -->
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWoo-Yeol&count_bg=%23070D68&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
