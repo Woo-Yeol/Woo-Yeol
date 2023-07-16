@@ -40,7 +40,7 @@
 - 🦁**Likelion at KoreaTech** 8th Student (2020) <code><a href="https://www.likelion.net/"><img height="15" src="https://oopy.lazyrockets.com/api/rest/cdn/image/a1ea1add-8fec-4f53-92f1-1e08abf04a19.png"> Info</a></code>
 - 🦁**Likelion at KoreaTech** 9th Representative Organizer (2021)
 - 👨🏻‍💻 Data Engineer Intern in **🌌[SIA](https://www.si-analytics.ai)**(2022.7 ~ 2022.12)
-- 🦾 **[Boost Camp](https://boostcamp.connect.or.kr) AI TECH 5th** boostcamper in [Naver Connect](https://www.connect.or.kr)(2023.3 ~ )
+- 🦾 **[Boost Camp](https://boostcamp.connect.or.kr) AI TECH 5th** boostcamper in [Naver Connect](https://www.connect.or.kr)(2023.3 ~ 2023.8)
   
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo-Yeol&layout=compact) -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
