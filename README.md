@@ -41,7 +41,7 @@
 - 🦁**Likelion at KoreaTech** 9th Representative Organizer (2021) -->
 - 👨🏻‍💻 Data Engineer Intern in **🌌[SIA](https://www.si-analytics.ai)**(2022.7 ~ 2022.12)
 - 🦾 **[Boost Camp](https://boostcamp.connect.or.kr) AI TECH 5th** boostcamper in [Naver Connect](https://www.connect.or.kr)(2023.3 ~ 2023.8)
-- 💻 **[SKT](https://www.sktelecom.com)** Junior Engineer (2024.1 ~ )  
+- 💻 **[SKT](https://www.sktelecom.com)** Data Engineer (2024.1 ~ )  
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woo-Yeol&layout=compact) -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=woo-yeol&theme=vision-friendly-dark&show_icons=true&hide_border=true" />
